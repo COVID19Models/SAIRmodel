@@ -1,0 +1,23 @@
+The paper essentially consists of 3 sections namely :
+
+1. Parameter estimation
+2. SAIR model solution
+3. Herd immunity calculation
+
+There are separate readme files in all the folders with specific details
+
+The only input required for the codes to run is COVID19 time series data for various countries which was taken from "www.worldometers.com" 
+
+
+
+Reference :
+Kaushal, S., Rajput, A. S., Bhattacharya, S., Vidyasagar, M., Kumar, A., Prakash, M. K., & Ansumali, S. (2020). Estimating Hidden Asymptomatics, Herd Immunity Threshold and Lockdown Effects using a COVID-19 Specific Model. arXiv preprint arXiv:2006.00045.
+
+
+
+
+Incase of any questions/suggestions please contact (via email): 
+
+shaurya@jncasr.ac.in
+ansumali@jncasr.ac.in
+
