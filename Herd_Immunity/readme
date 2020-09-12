@@ -1,0 +1,7 @@
+Herd immunity
+
+This folder uses the parameters estimated from the "Paramters Estimation" section and runs the SAIR model for various countries. 
+
+Running "main_%%.C" throws out a ".data" file that contains the S,A,I,R values which can be copied to the figures folder for plotting purposes.
+
+

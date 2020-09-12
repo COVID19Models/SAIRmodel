@@ -1,0 +1,12 @@
+Parameter Estimation
+
+This section is further divided into 4 parts.
+alpha, beta, gamma, delta are the parameters of the SAIR model that need to be estimated using real data. The procedure is done for 4 countries, namely : France, Japan, Switzerland and Italy.
+
+In each folder data files with the names "I.data", "Idot.data", "R.data", "Rdot.data" are all INPUT files. They consist of the daily reported infections and recoveries for various countries.
+The time series data was taken from "www.worldometers.com"
+
+Running the "main_%%%.cpp" files in each folder, throws out output files which can be copied into the "figures" folder to generate plots with necessary data fitting.
+
+
+
